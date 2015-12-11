@@ -1,0 +1,19 @@
+.panel {
+  display: inline-block;
+  width: 33%;
+}
+body {
+  background-image: url("https://lunaelektra.files.wordpress.com/2014/03/1-background-4-hole-notepaper-dpi-96.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div {
+  font-size: 30px;
+  font-family: cursive;
+  margin: auto;
+  width: 30%;
+  border: 3px dashed gray;
+  padding: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
